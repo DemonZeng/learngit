@@ -15,6 +15,8 @@ namespace MvvmLightDemo
         {
             InitializeComponent();
             Closing += (s, e) => ViewModelLocator.Cleanup();
+
+            //test 
         }
     }
 }

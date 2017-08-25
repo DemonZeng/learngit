@@ -39,3 +39,6 @@ c:\users\demon\documents\visual studio 2015\Projects\MvvmLightDemo\MvvmLightDemo
 c:\users\demon\documents\visual studio 2015\Projects\MvvmLightDemo\MvvmLightDemo\obj\Debug\MvvmLightDemo.pdb
 C:\Users\Demon\documents\visual studio 2015\Projects\MvvmLightDemo\MvvmLightDemo\obj\Debug\Views\SaveEmployeeView.baml
 C:\Users\Demon\documents\visual studio 2015\Projects\MvvmLightDemo\MvvmLightDemo\obj\Debug\Views\SaveEmployeeView.g.cs
+F:\DemonGIt\MvvmLightDemo\MvvmLightDemo\bin\Debug\MvvmLightDemo.exe.config
+F:\DemonGIt\MvvmLightDemo\MvvmLightDemo\obj\Debug\MvvmLightDemo.exe
+F:\DemonGIt\MvvmLightDemo\MvvmLightDemo\obj\Debug\MvvmLightDemo.pdb
